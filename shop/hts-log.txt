@@ -1,0 +1,99 @@
+HTTrack3.49-1+htsswf+htsjava launched on Wed, 26 Apr 2017 17:36:37 at http://htmlmystore.justthemevalley.com/genius/Version3/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://htmlmystore.justthemevalley.com/genius/Version3/index.html -O1 "C:\My Web Sites\shop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:36:58	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/index.html (from primary/primary)
+17:42:52	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/account_page.html (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:42:53	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img08.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:42:53	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img10.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:45:47	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/slider/slider-img2.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:45:47	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img02.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:45:47	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img04.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:45:48	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img09.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:01	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img16.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:09	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img19.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:11	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/testimonials-img3.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:13	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/testimonials-img1.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:17	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/sitemap.html (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:46:18	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/js/bootstrap.min.js (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:54:57	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/multiple_addresses.html (from htmlmystore.justthemevalley.com/genius/Version3/shopping_cart.html)
+17:54:57	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/add-slide2.jpg (from htmlmystore.justthemevalley.com/genius/Version3/shop_grid.html)
+17:54:57	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/add-slide3.jpg (from htmlmystore.justthemevalley.com/genius/Version3/shop_grid.html)
+17:54:57	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/about_us_slide2.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:54:57	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/team-img03.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:55:04	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/team-img04.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:55:05	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/faq-banner.png (from htmlmystore.justthemevalley.com/genius/Version3/faq.html)
+17:55:05	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/blog-lg-img.jpg (from htmlmystore.justthemevalley.com/genius/Version3/single_post.html)
+17:55:13	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/products/img04.jpg (from htmlmystore.justthemevalley.com/genius/Version3/index.html)
+17:55:24	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/glyphicons-halflings-regular.woff2 (from htmlmystore.justthemevalley.com/genius/Version3/css/bootstrap.min.css)
+17:55:24	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.eot? (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:55:26	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:55:30	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.woff?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:55:38	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.ttf?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:55:39	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:55:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 152796 got 85829): htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.ttf?v=4.7.0
+17:55:42	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/simple-line-icons/Simple-Line-Icons.eot (from htmlmystore.justthemevalley.com/genius/Version3/css/simple-line-icons.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/grabbing.png (from htmlmystore.justthemevalley.com/genius/Version3/css/owl.carousel.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/AjaxLoader.gif (from htmlmystore.justthemevalley.com/genius/Version3/css/owl.theme.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_glass_100_f6f6f6_1x400.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_glass_100_fdf5ce_1x400.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_glass_65_ffffff_1x400.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-icons_222222_256x240.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-icons_ffffff_256x240.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-icons_ef8c08_256x240.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-icons_228ef1_256x240.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-icons_ffd27a_256x240.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_diagonals-thick_20_666666_40x40.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/images/ui-bg_flat_10_000000_40x100.png (from htmlmystore.justthemevalley.com/genius/Version3/css/jquery-ui.css)
+17:55:45	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/roboto/Thin/Roboto-Thin.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:55:45	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/css/fonts/Thin/Roboto-Thin.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:55:45	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/ThinItalic/Roboto-ThinItalic.woff2?v=1.1.0
+17:55:45	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Light/Roboto-Light.woff2?v=1.1.0
+17:55:45	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/LightItalic/Roboto-LightItalic.woff2?v=1.1.0
+17:55:45	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/LightItalic/Roboto-LightItalic.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:55:47	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Regular/Roboto-Regular.woff2?v=1.1.0
+17:55:47	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Italic/Roboto-Italic.woff2?v=1.1.0
+17:55:47	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Italic/Roboto-Italic.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:00	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Medium/Roboto-Medium.woff2?v=1.1.0
+17:56:00	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/MediumItalic/Roboto-MediumItalic.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:02	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/MediumItalic/Roboto-MediumItalic.woff?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:06	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Bold/Roboto-Bold.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:06	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/BoldItalic/Roboto-BoldItalic.woff2?v=1.1.0
+17:56:06	Warning: 	Retry after error -2 (Receive Time Out) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/BoldItalic/Roboto-BoldItalic.woff?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:08	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/BoldItalic/Roboto-BoldItalic.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:11	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Black/Roboto-Black.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:11	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/BlackItalic/Roboto-BlackItalic.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:14	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/dosis/x-7NZTw0n-ypOAaIE8uSrvesZW2xOQ-xsNqO47m55DA.woff (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:17	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/newsletter.jpg (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:23	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/arrow-d.png (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:24	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/plus-d2.png (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:24	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/team-img03.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:56:27	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/images/team-img04.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:56:27	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.eot? (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:56:28	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:56:30	Warning: 	Retry after error -4 (Incorrect length (85829 Bytes, 152796 expected)) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.ttf?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:56:33	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:56:34	Warning: 	Retry after error -4 (No data (connection closed)) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/simple-line-icons/Simple-Line-Icons.eot (from htmlmystore.justthemevalley.com/genius/Version3/css/simple-line-icons.css)
+17:56:40	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/css/fonts/Thin/Roboto-Thin.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:41	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/LightItalic/Roboto-LightItalic.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:44	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/MediumItalic/Roboto-MediumItalic.woff2?v=1.1.0
+17:56:44	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Bold/Roboto-Bold.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:48	Warning: 	Retry after error -4 (Connect Error) at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Black/Roboto-Black.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:56:48	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/BlackItalic/Roboto-BlackItalic.woff2?v=1.1.0
+17:56:48	Error: 	"Connect Error" (-4) after 2 retries at link htmlmystore.justthemevalley.com/genius/Version3/images/team-img04.jpg (from htmlmystore.justthemevalley.com/genius/Version3/about_us.html)
+17:56:48	Error: 	"Connect Error" (-4) after 2 retries at link htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.eot? (from htmlmystore.justthemevalley.com/genius/Version3/css/font-awesome.min.css)
+17:56:48	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0
+17:56:49	Error: 	"Not Found" (404) at link htmlmystore.justthemevalley.com/genius/Version3/css/fonts/Thin/Roboto-Thin.ttf?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:57:05	Error: 	"Connect Error" (-4) after 2 retries at link htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Bold/Roboto-Bold.woff2?v=1.1.0 (from htmlmystore.justthemevalley.com/genius/Version3/css/style.css)
+17:57:05	Warning: 	File not parsed, looks like binary: htmlmystore.justthemevalley.com/genius/Version3/fonts/roboto/Black/Roboto-Black.woff2?v=1.1.0
+
+HTTrack Website Copier/3.49-1 mirror complete in 20 minutes 28 seconds : 274 links scanned, 197 files written (13859031 bytes overall) [12049951 bytes received at 9812 bytes/sec], 2151766 bytes transferred using HTTP compression in 30 files, ratio 12%, 1.4 requests per connection
+(23 errors, 65 warnings, 0 messages)
